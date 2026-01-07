@@ -1,0 +1,26 @@
+{
+  "name": "card-validator-core",
+  "version": "1.0.0",
+  "description": "A data validation tool for Trading Card Games",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "tcg",
+    "card-game",
+    "validation",
+    "game-development",
+    "data-validation"
+  ],
+  "author": "Chemythology Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-repo/card-validator-core"
+  },
+  "bugs": {
+    "url": "https://github.com/your-repo/card-validator-core/issues"
+  },
+  "homepage": "https://github.com/your-repo/card-validator-core#readme"
+}
