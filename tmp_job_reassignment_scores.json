@@ -1,0 +1,7804 @@
+{
+  "generatedAt": "2026-03-29T07:22:35.465Z",
+  "totalCards": 491,
+  "totalJobs": 34,
+  "totalCombinations": 16694,
+  "processingOrder": [
+    "job_axeman",
+    "job_ninja",
+    "job_heavy_infantry",
+    "job_pirate",
+    "job_mage",
+    "job_gunner",
+    "job_spearman",
+    "job_archer",
+    "job_swordsman",
+    "job_martial_artist",
+    "job_necromancer",
+    "job_knight",
+    "job_summoner",
+    "job_onmyoji",
+    "job_spirit_user",
+    "job_angel",
+    "job_herbalist",
+    "job_shield_bearer",
+    "job_cleric",
+    "job_ronin",
+    "job_thief",
+    "job_puppeteer",
+    "job_astrologer",
+    "job_hexer",
+    "job_musician",
+    "job_merchant",
+    "job_dancer",
+    "job_healer",
+    "job_jester",
+    "job_strategist",
+    "job_alchemist",
+    "job_dark_knight",
+    "job_magic_swordsman",
+    "job_fallen_angel"
+  ],
+  "reservedCards": {},
+  "constrainedJobs": [],
+  "jobCandidates": {
+    "job_swordsman": [
+      {
+        "id": "U204",
+        "name": "坂上田村麻呂",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U268",
+        "name": "武田信玄",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U669",
+        "name": "新田義貞",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U26",
+        "name": "八幡神",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U208",
+        "name": "平清盛",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U233",
+        "name": "源頼朝",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U269",
+        "name": "上杉謙信",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U389",
+        "name": "近藤勇",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U484",
+        "name": "徳川家光",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U486",
+        "name": "徳川吉宗",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U677",
+        "name": "島津義久",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "MOB_U003",
+        "name": "侍",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U736",
+        "name": "上杉景勝",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U737",
+        "name": "小早川秀秋",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U8",
+        "name": "鞍馬天狗",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U9",
+        "name": "服部半蔵",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U14",
+        "name": "猿田彦命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U16",
+        "name": "木花咲耶姫",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U20",
+        "name": "雷神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U23",
+        "name": "風神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U31",
+        "name": "酒呑童子",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U72",
+        "name": "山幸彦",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U112",
+        "name": "茨木童子",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U135",
+        "name": "倭建命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U184",
+        "name": "源義経",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      }
+    ],
+    "job_spearman": [
+      {
+        "id": "U715",
+        "name": "福島正則",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U475",
+        "name": "原田左之助",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U319",
+        "name": "前田利家",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U720",
+        "name": "後藤又兵衛",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U8",
+        "name": "鞍馬天狗",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U9",
+        "name": "服部半蔵",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U14",
+        "name": "猿田彦命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U16",
+        "name": "木花咲耶姫",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U20",
+        "name": "雷神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U23",
+        "name": "風神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U31",
+        "name": "酒呑童子",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U72",
+        "name": "山幸彦",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U112",
+        "name": "茨木童子",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U135",
+        "name": "倭建命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U148",
+        "name": "雷電童子",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U184",
+        "name": "源義経",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U204",
+        "name": "坂上田村麻呂",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U205",
+        "name": "那須与一",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U265",
+        "name": "織田信長",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U268",
+        "name": "武田信玄",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U270",
+        "name": "伊達政宗",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U273",
+        "name": "明智光秀",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U275",
+        "name": "真田幸村",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U283",
+        "name": "天武天皇",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U300",
+        "name": "今川義元",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      }
+    ],
+    "job_axeman": [
+      {
+        "id": "U3",
+        "name": "天邪鬼",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U8",
+        "name": "鞍馬天狗",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U9",
+        "name": "服部半蔵",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U10",
+        "name": "風魔小太郎",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U14",
+        "name": "猿田彦命",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U16",
+        "name": "木花咲耶姫",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U20",
+        "name": "雷神",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U23",
+        "name": "風神",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U26",
+        "name": "八幡神",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U67",
+        "name": "俵藤太",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U68",
+        "name": "平将門",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U72",
+        "name": "山幸彦",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U75",
+        "name": "経津主神",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U82",
+        "name": "埴安神",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U97",
+        "name": "山姥",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U112",
+        "name": "茨木童子",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U113",
+        "name": "平知盛",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U114",
+        "name": "橋姫",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U116",
+        "name": "葛の葉",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U117",
+        "name": "八百比丘尼",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U122",
+        "name": "平教経",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U127",
+        "name": "建御雷命",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U135",
+        "name": "倭建命",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U136",
+        "name": "安達ヶ原の鬼女",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U139",
+        "name": "天之日矛",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      }
+    ],
+    "job_archer": [
+      {
+        "id": "U205",
+        "name": "那須与一",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U300",
+        "name": "今川義元",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "MOB_U006",
+        "name": "弓兵",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U453",
+        "name": "板額御前",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U16",
+        "name": "木花咲耶姫",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U23",
+        "name": "風神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U31",
+        "name": "酒呑童子",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U72",
+        "name": "山幸彦",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U112",
+        "name": "茨木童子",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U135",
+        "name": "倭建命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U184",
+        "name": "源義経",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U204",
+        "name": "坂上田村麻呂",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U265",
+        "name": "織田信長",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U268",
+        "name": "武田信玄",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U270",
+        "name": "伊達政宗",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U273",
+        "name": "明智光秀",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U275",
+        "name": "真田幸村",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U321",
+        "name": "井伊直政",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U331",
+        "name": "天之尾羽張神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U346",
+        "name": "竜田姫",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U362",
+        "name": "日光菩薩",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U391",
+        "name": "沖田総司",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U392",
+        "name": "斎藤一",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U394",
+        "name": "佐々木小次郎",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U396",
+        "name": "柳生十兵衛",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      }
+    ],
+    "job_ninja": [
+      {
+        "id": "U22",
+        "name": "伊賀忍者",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U56",
+        "name": "霧隠才蔵",
+        "score": 12,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 0
+      },
+      {
+        "id": "U429",
+        "name": "河上彦斎",
+        "score": 12,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 0
+      },
+      {
+        "id": "U1",
+        "name": "日本武尊",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U12",
+        "name": "甲賀忍者",
+        "score": 11,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 0,
+        "element": 1
+      },
+      {
+        "id": "U40",
+        "name": "風伯",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U52",
+        "name": "猿飛佐助",
+        "score": 11,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 0,
+        "element": 1
+      },
+      {
+        "id": "U61",
+        "name": "金太郎",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U66",
+        "name": "一寸法師",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U92",
+        "name": "鳴神",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U115",
+        "name": "桃太郎",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U118",
+        "name": "一目連",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U124",
+        "name": "望月千代女",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U159",
+        "name": "伊吹童子",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U166",
+        "name": "神産巣日神",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U207",
+        "name": "静御前",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U247",
+        "name": "少彦名命",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U249",
+        "name": "聖徳太子",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U266",
+        "name": "豊臣秀吉",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U289",
+        "name": "世阿弥",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U404",
+        "name": "出雲阿国",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U422",
+        "name": "吹雪姫",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U426",
+        "name": "武市半平太",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U460",
+        "name": "お江",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U606",
+        "name": "韋駄天",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      }
+    ],
+    "job_shield_bearer": [
+      {
+        "id": "U125",
+        "name": "天目一箇神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U216",
+        "name": "天穂日命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U328",
+        "name": "百地三太夫",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U352",
+        "name": "阿弥陀如来",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U370",
+        "name": "吉田兼倶",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U418",
+        "name": "冬将軍",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U447",
+        "name": "天璋院篤姫",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U456",
+        "name": "立花誾千代",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U611",
+        "name": "虚ろなる器",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U27",
+        "name": "大山祇神",
+        "score": 13,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 0
+      },
+      {
+        "id": "U30",
+        "name": "石長比売",
+        "score": 13,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 0
+      },
+      {
+        "id": "U100",
+        "name": "国常立神",
+        "score": 13,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 0
+      },
+      {
+        "id": "U105",
+        "name": "砂かけ婆",
+        "score": 13,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 0
+      },
+      {
+        "id": "U251",
+        "name": "長壁姫",
+        "score": 13,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 0
+      },
+      {
+        "id": "U333",
+        "name": "石凝姥命",
+        "score": 13,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 0
+      },
+      {
+        "id": "U340",
+        "name": "磐長媛命",
+        "score": 13,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 0
+      },
+      {
+        "id": "U347",
+        "name": "金山彦神",
+        "score": 13,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 0
+      },
+      {
+        "id": "U620",
+        "name": "叡尊",
+        "score": 13,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 0
+      },
+      {
+        "id": "U632",
+        "name": "運慶",
+        "score": 13,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 0
+      },
+      {
+        "id": "U772",
+        "name": "巌",
+        "score": 13,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 0
+      },
+      {
+        "id": "U2",
+        "name": "思金神",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U7",
+        "name": "蚶貝比売",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U13",
+        "name": "天宇受売命",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U19",
+        "name": "雪女",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U43",
+        "name": "浦島太郎",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      }
+    ],
+    "job_heavy_infantry": [
+      {
+        "id": "U2",
+        "name": "思金神",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U7",
+        "name": "蚶貝比売",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U13",
+        "name": "天宇受売命",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U19",
+        "name": "雪女",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U43",
+        "name": "浦島太郎",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U71",
+        "name": "海幸彦",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U123",
+        "name": "安徳天皇",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U125",
+        "name": "天目一箇神",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U169",
+        "name": "天佐具売",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U188",
+        "name": "表筒男命",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U216",
+        "name": "天穂日命",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U219",
+        "name": "弟橘姫",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U259",
+        "name": "藤原道長",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U267",
+        "name": "徳川家康",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U272",
+        "name": "北条政子",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U278",
+        "name": "鑑真",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U280",
+        "name": "推古天皇",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U285",
+        "name": "北条時宗",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U297",
+        "name": "天智天皇",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U310",
+        "name": "北条時政",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U316",
+        "name": "北条早雲",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U317",
+        "name": "北条氏康",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U328",
+        "name": "百地三太夫",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U337",
+        "name": "住吉三神",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U352",
+        "name": "阿弥陀如来",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      }
+    ],
+    "job_cleric": [
+      {
+        "id": "U221",
+        "name": "安珍",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U483",
+        "name": "兼好法師",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U648",
+        "name": "良寛",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U652",
+        "name": "日目",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U28",
+        "name": "少彦名神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U151",
+        "name": "事代主神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U153",
+        "name": "一言主神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U176",
+        "name": "寿老人",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U375",
+        "name": "度会家行",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U431",
+        "name": "竹中半兵衛",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U441",
+        "name": "元正天皇",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U717",
+        "name": "ねね",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U466",
+        "name": "篤姫",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U667",
+        "name": "藤原道兼",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U117",
+        "name": "八百比丘尼",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U278",
+        "name": "鑑真",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U302",
+        "name": "栄西",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U376",
+        "name": "行基",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U377",
+        "name": "道鏡",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U479",
+        "name": "一休宗純",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U619",
+        "name": "一遍",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U621",
+        "name": "忍性",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U622",
+        "name": "覚鑁",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U624",
+        "name": "道昭",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U625",
+        "name": "天海",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      }
+    ],
+    "job_mage": [
+      {
+        "id": "U6",
+        "name": "瀬織津姫",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U29",
+        "name": "天児屋命",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U44",
+        "name": "卑弥呼",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U45",
+        "name": "安倍晴明",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U54",
+        "name": "天満天神",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U57",
+        "name": "滝夜叉姫",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U60",
+        "name": "弁才天",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U88",
+        "name": "乙姫",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U93",
+        "name": "布刀玉命",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U94",
+        "name": "豊受大神",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U99",
+        "name": "宇迦之御魂神",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U128",
+        "name": "建礼門院",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U134",
+        "name": "天細女命",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U157",
+        "name": "蘆屋道満",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U162",
+        "name": "閻魔",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U173",
+        "name": "市寸島比売命",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U174",
+        "name": "大黒天",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U187",
+        "name": "中筒男命",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U189",
+        "name": "須勢理毘売命",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U191",
+        "name": "天香香背男",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U215",
+        "name": "櫛名田比売",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U220",
+        "name": "清姫",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U222",
+        "name": "小野小町",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U238",
+        "name": "竈神",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U248",
+        "name": "菅原道真",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      }
+    ],
+    "job_hexer": [
+      {
+        "id": "MOB_U008",
+        "name": "陰陽師見習い",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U45",
+        "name": "安倍晴明",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U157",
+        "name": "蘆屋道満",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U134",
+        "name": "天細女命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U220",
+        "name": "清姫",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U222",
+        "name": "小野小町",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U306",
+        "name": "藤原鎌足",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U311",
+        "name": "黒田官兵衛",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U322",
+        "name": "井伊直虎",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U323",
+        "name": "直江兼続",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U326",
+        "name": "大友宗麟",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U381",
+        "name": "柳田國男",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U386",
+        "name": "大久保利通",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U387",
+        "name": "木戸孝允",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U400",
+        "name": "歌川広重",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U402",
+        "name": "松尾芭蕉",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U403",
+        "name": "近松門左衛門",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U411",
+        "name": "ペリー",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U721",
+        "name": "最上義光",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U473",
+        "name": "久坂玄瑞",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U481",
+        "name": "西行",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U6",
+        "name": "瀬織津姫",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U29",
+        "name": "天児屋命",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U44",
+        "name": "卑弥呼",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U54",
+        "name": "天満天神",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      }
+    ],
+    "job_summoner": [
+      {
+        "id": "U29",
+        "name": "天児屋命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U44",
+        "name": "卑弥呼",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U45",
+        "name": "安倍晴明",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U54",
+        "name": "天満天神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U57",
+        "name": "滝夜叉姫",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U60",
+        "name": "弁才天",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U93",
+        "name": "布刀玉命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U94",
+        "name": "豊受大神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U157",
+        "name": "蘆屋道満",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U162",
+        "name": "閻魔",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U173",
+        "name": "市寸島比売命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U187",
+        "name": "中筒男命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U248",
+        "name": "菅原道真",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U274",
+        "name": "石田三成",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U277",
+        "name": "最澄",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U287",
+        "name": "親鸞",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U288",
+        "name": "道元",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U301",
+        "name": "法然",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U329",
+        "name": "天津甕星",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U360",
+        "name": "虚空蔵菩薩",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U363",
+        "name": "月光菩薩",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U382",
+        "name": "折口信夫",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U399",
+        "name": "葛飾北斎",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U407",
+        "name": "崇徳天皇",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U433",
+        "name": "平賀源内",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      }
+    ],
+    "job_dancer": [
+      {
+        "id": "U207",
+        "name": "静御前",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U289",
+        "name": "世阿弥",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U619",
+        "name": "一遍",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U740",
+        "name": "在原業平",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U166",
+        "name": "神産巣日神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U247",
+        "name": "少彦名命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U249",
+        "name": "聖徳太子",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U234",
+        "name": "平敦盛",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U404",
+        "name": "出雲阿国",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U448",
+        "name": "和泉式部",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U449",
+        "name": "赤染衛門",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U491",
+        "name": "東洲斎写楽",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U665",
+        "name": "藤原定家",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U741",
+        "name": "柿本人麻呂",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U750",
+        "name": "羽衣天女",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U56",
+        "name": "霧隠才蔵",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U124",
+        "name": "望月千代女",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U183",
+        "name": "加藤段蔵",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U266",
+        "name": "豊臣秀吉",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U422",
+        "name": "吹雪姫",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U426",
+        "name": "武市半平太",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U460",
+        "name": "お江",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U615",
+        "name": "阿修羅",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U719",
+        "name": "片倉景綱",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U490",
+        "name": "支倉常長",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      }
+    ],
+    "job_musician": [
+      {
+        "id": "U619",
+        "name": "一遍",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U234",
+        "name": "平敦盛",
+        "score": 15,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 0
+      },
+      {
+        "id": "U207",
+        "name": "静御前",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U289",
+        "name": "世阿弥",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U404",
+        "name": "出雲阿国",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U750",
+        "name": "羽衣天女",
+        "score": 14,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 0,
+        "element": 1
+      },
+      {
+        "id": "U740",
+        "name": "在原業平",
+        "score": 13.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 0
+      },
+      {
+        "id": "U13",
+        "name": "天宇受売命",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U134",
+        "name": "天細女命",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U222",
+        "name": "小野小町",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U400",
+        "name": "歌川広重",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U401",
+        "name": "歌川国芳",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U403",
+        "name": "近松門左衛門",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U491",
+        "name": "東洲斎写楽",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U741",
+        "name": "柿本人麻呂",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U56",
+        "name": "霧隠才蔵",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U92",
+        "name": "鳴神",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U124",
+        "name": "望月千代女",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U249",
+        "name": "聖徳太子",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U266",
+        "name": "豊臣秀吉",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U422",
+        "name": "吹雪姫",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U428",
+        "name": "田中新兵衛",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U490",
+        "name": "支倉常長",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U771",
+        "name": "迅雷",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U448",
+        "name": "和泉式部",
+        "score": 12,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 0
+      }
+    ],
+    "job_strategist": [
+      {
+        "id": "U6",
+        "name": "瀬織津姫",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U88",
+        "name": "乙姫",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U99",
+        "name": "宇迦之御魂神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U128",
+        "name": "建礼門院",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U174",
+        "name": "大黒天",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U238",
+        "name": "竈神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U264",
+        "name": "足利義満",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U325",
+        "name": "細川ガラシャ",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U334",
+        "name": "菊理媛神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U338",
+        "name": "保食神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U344",
+        "name": "阿曇磯良",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U357",
+        "name": "文殊菩薩",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U372",
+        "name": "本居宣長",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U405",
+        "name": "春日局",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U415",
+        "name": "寒川比女命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U442",
+        "name": "孝謙天皇（称徳天皇）",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U458",
+        "name": "於大の方",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U462",
+        "name": "千姫",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U726",
+        "name": "尼子経久",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U731",
+        "name": "大隈重信",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U489",
+        "name": "杉田玄白",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U628",
+        "name": "木喰",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U642",
+        "name": "臨済義玄",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U660",
+        "name": "足利義政",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U666",
+        "name": "藤原頼長",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      }
+    ],
+    "job_merchant": [
+      {
+        "id": "U166",
+        "name": "神産巣日神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U247",
+        "name": "少彦名命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U249",
+        "name": "聖徳太子",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U25",
+        "name": "稲荷神",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U60",
+        "name": "弁才天",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U89",
+        "name": "恵比寿",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U335",
+        "name": "市杵嶋姫神",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U399",
+        "name": "葛飾北斎",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U651",
+        "name": "日興",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U652",
+        "name": "日目",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U664",
+        "name": "鉄眼道光",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U56",
+        "name": "霧隠才蔵",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U124",
+        "name": "望月千代女",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U183",
+        "name": "加藤段蔵",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U207",
+        "name": "静御前",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U266",
+        "name": "豊臣秀吉",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U289",
+        "name": "世阿弥",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U422",
+        "name": "吹雪姫",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U426",
+        "name": "武市半平太",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U460",
+        "name": "お江",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U615",
+        "name": "阿修羅",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U719",
+        "name": "片倉景綱",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U490",
+        "name": "支倉常長",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U619",
+        "name": "一遍",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U740",
+        "name": "在原業平",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      }
+    ],
+    "job_thief": [
+      {
+        "id": "U1",
+        "name": "日本武尊",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U12",
+        "name": "甲賀忍者",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U22",
+        "name": "伊賀忍者",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U38",
+        "name": "天火明命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U40",
+        "name": "風伯",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U52",
+        "name": "猿飛佐助",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U61",
+        "name": "金太郎",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U66",
+        "name": "一寸法師",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U92",
+        "name": "鳴神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U115",
+        "name": "桃太郎",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U118",
+        "name": "一目連",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U124",
+        "name": "望月千代女",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U159",
+        "name": "伊吹童子",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U207",
+        "name": "静御前",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U217",
+        "name": "天之鳥船神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U266",
+        "name": "豊臣秀吉",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U422",
+        "name": "吹雪姫",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U426",
+        "name": "武市半平太",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U428",
+        "name": "田中新兵衛",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U606",
+        "name": "韋駄天",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U615",
+        "name": "阿修羅",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U490",
+        "name": "支倉常長",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U758",
+        "name": "光輪の従者",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U760",
+        "name": "虚無の従者",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U740",
+        "name": "在原業平",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      }
+    ],
+    "job_alchemist": [
+      {
+        "id": "U6",
+        "name": "瀬織津姫",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U88",
+        "name": "乙姫",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U99",
+        "name": "宇迦之御魂神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U128",
+        "name": "建礼門院",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U174",
+        "name": "大黒天",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U238",
+        "name": "竈神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U264",
+        "name": "足利義満",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U325",
+        "name": "細川ガラシャ",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U334",
+        "name": "菊理媛神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U338",
+        "name": "保食神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U344",
+        "name": "阿曇磯良",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U357",
+        "name": "文殊菩薩",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U372",
+        "name": "本居宣長",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U405",
+        "name": "春日局",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U415",
+        "name": "寒川比女命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U442",
+        "name": "孝謙天皇（称徳天皇）",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U458",
+        "name": "於大の方",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U462",
+        "name": "千姫",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U726",
+        "name": "尼子経久",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U731",
+        "name": "大隈重信",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U489",
+        "name": "杉田玄白",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U628",
+        "name": "木喰",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U642",
+        "name": "臨済義玄",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U660",
+        "name": "足利義政",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U666",
+        "name": "藤原頼長",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      }
+    ],
+    "job_martial_artist": [
+      {
+        "id": "U8",
+        "name": "鞍馬天狗",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U9",
+        "name": "服部半蔵",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U14",
+        "name": "猿田彦命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U16",
+        "name": "木花咲耶姫",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U20",
+        "name": "雷神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U23",
+        "name": "風神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U31",
+        "name": "酒呑童子",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U72",
+        "name": "山幸彦",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U112",
+        "name": "茨木童子",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U135",
+        "name": "倭建命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U148",
+        "name": "雷電童子",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U184",
+        "name": "源義経",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U204",
+        "name": "坂上田村麻呂",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U205",
+        "name": "那須与一",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U206",
+        "name": "巴御前",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U265",
+        "name": "織田信長",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U268",
+        "name": "武田信玄",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U270",
+        "name": "伊達政宗",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U273",
+        "name": "明智光秀",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U275",
+        "name": "真田幸村",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U283",
+        "name": "天武天皇",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U300",
+        "name": "今川義元",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U318",
+        "name": "本多忠勝",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U321",
+        "name": "井伊直政",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U331",
+        "name": "天之尾羽張神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      }
+    ],
+    "job_knight": [
+      {
+        "id": "U26",
+        "name": "八幡神",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U208",
+        "name": "平清盛",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U269",
+        "name": "上杉謙信",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U413",
+        "name": "徳川慶喜",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U454",
+        "name": "甲斐姫",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U484",
+        "name": "徳川家光",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U486",
+        "name": "徳川吉宗",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U677",
+        "name": "島津義久",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "MOB_U003",
+        "name": "侍",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U736",
+        "name": "上杉景勝",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U233",
+        "name": "源頼朝",
+        "score": 15,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 0
+      },
+      {
+        "id": "U268",
+        "name": "武田信玄",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U389",
+        "name": "近藤勇",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U737",
+        "name": "小早川秀秋",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U10",
+        "name": "風魔小太郎",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U67",
+        "name": "俵藤太",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U68",
+        "name": "平将門",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U75",
+        "name": "経津主神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U97",
+        "name": "山姥",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U113",
+        "name": "平知盛",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U114",
+        "name": "橋姫",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U116",
+        "name": "葛の葉",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U122",
+        "name": "平教経",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U127",
+        "name": "建御雷命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U136",
+        "name": "安達ヶ原の鬼女",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      }
+    ],
+    "job_ronin": [
+      {
+        "id": "U26",
+        "name": "八幡神",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U208",
+        "name": "平清盛",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U233",
+        "name": "源頼朝",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U269",
+        "name": "上杉謙信",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U413",
+        "name": "徳川慶喜",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U454",
+        "name": "甲斐姫",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U484",
+        "name": "徳川家光",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U486",
+        "name": "徳川吉宗",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U677",
+        "name": "島津義久",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "MOB_U003",
+        "name": "侍",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U736",
+        "name": "上杉景勝",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U268",
+        "name": "武田信玄",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U389",
+        "name": "近藤勇",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U737",
+        "name": "小早川秀秋",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U10",
+        "name": "風魔小太郎",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U67",
+        "name": "俵藤太",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U68",
+        "name": "平将門",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U75",
+        "name": "経津主神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U82",
+        "name": "埴安神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U97",
+        "name": "山姥",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U113",
+        "name": "平知盛",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U114",
+        "name": "橋姫",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U116",
+        "name": "葛の葉",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U122",
+        "name": "平教経",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U127",
+        "name": "建御雷命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      }
+    ],
+    "job_gunner": [
+      {
+        "id": "U23",
+        "name": "風神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U31",
+        "name": "酒呑童子",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U184",
+        "name": "源義経",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U205",
+        "name": "那須与一",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U268",
+        "name": "武田信玄",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U270",
+        "name": "伊達政宗",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U273",
+        "name": "明智光秀",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U300",
+        "name": "今川義元",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U346",
+        "name": "竜田姫",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U391",
+        "name": "沖田総司",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U392",
+        "name": "斎藤一",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U394",
+        "name": "佐々木小次郎",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U396",
+        "name": "柳生十兵衛",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U410",
+        "name": "鈴鹿御前",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U709",
+        "name": "立花宗茂",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U710",
+        "name": "前田慶次",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U728",
+        "name": "坂本乙女",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U732",
+        "name": "中岡慎太郎",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U475",
+        "name": "原田左之助",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U669",
+        "name": "新田義貞",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "MOB_U004",
+        "name": "浪人",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "MOB_U005",
+        "name": "山賊",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "MOB_U006",
+        "name": "弓兵",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U776",
+        "name": "暗影",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U8",
+        "name": "鞍馬天狗",
+        "score": 13,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 0
+      }
+    ],
+    "job_pirate": [
+      {
+        "id": "U8",
+        "name": "鞍馬天狗",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U9",
+        "name": "服部半蔵",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U14",
+        "name": "猿田彦命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U16",
+        "name": "木花咲耶姫",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U20",
+        "name": "雷神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U23",
+        "name": "風神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U31",
+        "name": "酒呑童子",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U72",
+        "name": "山幸彦",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U112",
+        "name": "茨木童子",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U135",
+        "name": "倭建命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U148",
+        "name": "雷電童子",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U184",
+        "name": "源義経",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U204",
+        "name": "坂上田村麻呂",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U205",
+        "name": "那須与一",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U206",
+        "name": "巴御前",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U265",
+        "name": "織田信長",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U268",
+        "name": "武田信玄",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U270",
+        "name": "伊達政宗",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U273",
+        "name": "明智光秀",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U275",
+        "name": "真田幸村",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U283",
+        "name": "天武天皇",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U300",
+        "name": "今川義元",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U318",
+        "name": "本多忠勝",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U321",
+        "name": "井伊直政",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U331",
+        "name": "天之尾羽張神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      }
+    ],
+    "job_herbalist": [
+      {
+        "id": "U44",
+        "name": "卑弥呼",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U45",
+        "name": "安倍晴明",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U281",
+        "name": "聖武天皇",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U354",
+        "name": "薬師如来",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U363",
+        "name": "月光菩薩",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U712",
+        "name": "今井宗久",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U465",
+        "name": "本多正信",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U622",
+        "name": "覚鑁",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U623",
+        "name": "明恵",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U624",
+        "name": "道昭",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U629",
+        "name": "慈円",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U631",
+        "name": "玄奘三蔵",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U636",
+        "name": "良忍",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U638",
+        "name": "夢窓疎石",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U640",
+        "name": "蘭渓道隆",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U641",
+        "name": "無学祖元",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U647",
+        "name": "円爾弁円",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U649",
+        "name": "沢庵宗彭",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U651",
+        "name": "日興",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U657",
+        "name": "隠元隆琦",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U664",
+        "name": "鉄眼道光",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U774",
+        "name": "霜華",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U302",
+        "name": "栄西",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U377",
+        "name": "道鏡",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U479",
+        "name": "一休宗純",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      }
+    ],
+    "job_healer": [
+      {
+        "id": "U652",
+        "name": "日目",
+        "score": 16,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U648",
+        "name": "良寛",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U11",
+        "name": "伊邪那岐命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U18",
+        "name": "豊玉姫",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U98",
+        "name": "玉依姫",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U133",
+        "name": "役小角",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U171",
+        "name": "田心姫命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U186",
+        "name": "底筒男命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U240",
+        "name": "秋葉神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U290",
+        "name": "千利休",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U379",
+        "name": "円珍",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U451",
+        "name": "藤原道綱母",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U452",
+        "name": "中将姫",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U633",
+        "name": "快慶",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U656",
+        "name": "泰澄",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U746",
+        "name": "仁徳天皇",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U28",
+        "name": "少彦名神",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U114",
+        "name": "橋姫",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U154",
+        "name": "神武天皇",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U185",
+        "name": "武蔵坊弁慶",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U218",
+        "name": "饒速日命",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U221",
+        "name": "安珍",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U233",
+        "name": "源頼朝",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U259",
+        "name": "藤原道長",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U278",
+        "name": "鑑真",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      }
+    ],
+    "job_astrologer": [
+      {
+        "id": "U770",
+        "name": "渦潮",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U774",
+        "name": "霜華",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U777",
+        "name": "白夜",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U134",
+        "name": "天細女命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U220",
+        "name": "清姫",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U222",
+        "name": "小野小町",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U306",
+        "name": "藤原鎌足",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U311",
+        "name": "黒田官兵衛",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U322",
+        "name": "井伊直虎",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U323",
+        "name": "直江兼続",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U326",
+        "name": "大友宗麟",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U381",
+        "name": "柳田國男",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U386",
+        "name": "大久保利通",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U387",
+        "name": "木戸孝允",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U400",
+        "name": "歌川広重",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U402",
+        "name": "松尾芭蕉",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U403",
+        "name": "近松門左衛門",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U411",
+        "name": "ペリー",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U721",
+        "name": "最上義光",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U473",
+        "name": "久坂玄瑞",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U481",
+        "name": "西行",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "MOB_U008",
+        "name": "陰陽師見習い",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U93",
+        "name": "布刀玉命",
+        "score": 13.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 0
+      },
+      {
+        "id": "U329",
+        "name": "天津甕星",
+        "score": 13.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 0
+      },
+      {
+        "id": "U191",
+        "name": "天香香背男",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      }
+    ],
+    "job_spirit_user": [
+      {
+        "id": "U44",
+        "name": "卑弥呼",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U45",
+        "name": "安倍晴明",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U54",
+        "name": "天満天神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U57",
+        "name": "滝夜叉姫",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U60",
+        "name": "弁才天",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U101",
+        "name": "天之常立神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U157",
+        "name": "蘆屋道満",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U173",
+        "name": "市寸島比売命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U187",
+        "name": "中筒男命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U248",
+        "name": "菅原道真",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U274",
+        "name": "石田三成",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U276",
+        "name": "空海",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U277",
+        "name": "最澄",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U281",
+        "name": "聖武天皇",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U286",
+        "name": "日蓮",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U287",
+        "name": "親鸞",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U288",
+        "name": "道元",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U301",
+        "name": "法然",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U309",
+        "name": "持統天皇",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U330",
+        "name": "天之忍穂耳命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U332",
+        "name": "天石門別神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U345",
+        "name": "春日神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U351",
+        "name": "釈迦如来",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U354",
+        "name": "薬師如来",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U356",
+        "name": "観音菩薩",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      }
+    ],
+    "job_jester": [
+      {
+        "id": "U234",
+        "name": "平敦盛",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U619",
+        "name": "一遍",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U750",
+        "name": "羽衣天女",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U56",
+        "name": "霧隠才蔵",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U92",
+        "name": "鳴神",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U124",
+        "name": "望月千代女",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U207",
+        "name": "静御前",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U249",
+        "name": "聖徳太子",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U266",
+        "name": "豊臣秀吉",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U289",
+        "name": "世阿弥",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U404",
+        "name": "出雲阿国",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U422",
+        "name": "吹雪姫",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U428",
+        "name": "田中新兵衛",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U719",
+        "name": "片倉景綱",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U490",
+        "name": "支倉常長",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U740",
+        "name": "在原業平",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U771",
+        "name": "迅雷",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U773",
+        "name": "旋風",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U1",
+        "name": "日本武尊",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U3",
+        "name": "天邪鬼",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U6",
+        "name": "瀬織津姫",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U12",
+        "name": "甲賀忍者",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U13",
+        "name": "天宇受売命",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U19",
+        "name": "雪女",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U22",
+        "name": "伊賀忍者",
+        "score": 11,
+        "stat": 2,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      }
+    ],
+    "job_onmyoji": [
+      {
+        "id": "U45",
+        "name": "安倍晴明",
+        "score": 15,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 0
+      },
+      {
+        "id": "U157",
+        "name": "蘆屋道満",
+        "score": 15,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 0
+      },
+      {
+        "id": "U29",
+        "name": "天児屋命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U44",
+        "name": "卑弥呼",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U54",
+        "name": "天満天神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U60",
+        "name": "弁才天",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U93",
+        "name": "布刀玉命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U94",
+        "name": "豊受大神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U101",
+        "name": "天之常立神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U162",
+        "name": "閻魔",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U173",
+        "name": "市寸島比売命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U187",
+        "name": "中筒男命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U248",
+        "name": "菅原道真",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U274",
+        "name": "石田三成",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U276",
+        "name": "空海",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U277",
+        "name": "最澄",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U281",
+        "name": "聖武天皇",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U286",
+        "name": "日蓮",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U287",
+        "name": "親鸞",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U288",
+        "name": "道元",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U301",
+        "name": "法然",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U309",
+        "name": "持統天皇",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U329",
+        "name": "天津甕星",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U330",
+        "name": "天之忍穂耳命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U332",
+        "name": "天石門別神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      }
+    ],
+    "job_necromancer": [
+      {
+        "id": "U29",
+        "name": "天児屋命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U44",
+        "name": "卑弥呼",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U60",
+        "name": "弁才天",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U93",
+        "name": "布刀玉命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U94",
+        "name": "豊受大神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U101",
+        "name": "天之常立神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U162",
+        "name": "閻魔",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U173",
+        "name": "市寸島比売命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U187",
+        "name": "中筒男命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U274",
+        "name": "石田三成",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U276",
+        "name": "空海",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U277",
+        "name": "最澄",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U281",
+        "name": "聖武天皇",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U286",
+        "name": "日蓮",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U287",
+        "name": "親鸞",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U288",
+        "name": "道元",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U301",
+        "name": "法然",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U309",
+        "name": "持統天皇",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U329",
+        "name": "天津甕星",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U330",
+        "name": "天之忍穂耳命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U332",
+        "name": "天石門別神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U345",
+        "name": "春日神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U351",
+        "name": "釈迦如来",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U354",
+        "name": "薬師如来",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U356",
+        "name": "観音菩薩",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      }
+    ],
+    "job_magic_swordsman": [
+      {
+        "id": "U3",
+        "name": "天邪鬼",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U117",
+        "name": "八百比丘尼",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U172",
+        "name": "湍津姫命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U177",
+        "name": "福禄寿",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U320",
+        "name": "加藤清正",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U342",
+        "name": "五十猛神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U373",
+        "name": "平田篤胤",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U723",
+        "name": "雑賀孫市",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U482",
+        "name": "鴨長明",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U659",
+        "name": "僧正遍照",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U737",
+        "name": "小早川秀秋",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U775",
+        "name": "劫火",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U10",
+        "name": "風魔小太郎",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U16",
+        "name": "木花咲耶姫",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U20",
+        "name": "雷神",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U68",
+        "name": "平将門",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U114",
+        "name": "橋姫",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U116",
+        "name": "葛の葉",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U136",
+        "name": "安達ヶ原の鬼女",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U148",
+        "name": "雷電童子",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U158",
+        "name": "両面宿儺",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U165",
+        "name": "石川五右衛門",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U167",
+        "name": "天忍穂耳尊",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U168",
+        "name": "天稚彦",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U184",
+        "name": "源義経",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      }
+    ],
+    "job_dark_knight": [
+      {
+        "id": "U117",
+        "name": "八百比丘尼",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U172",
+        "name": "湍津姫命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U177",
+        "name": "福禄寿",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U320",
+        "name": "加藤清正",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U342",
+        "name": "五十猛神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U373",
+        "name": "平田篤胤",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U723",
+        "name": "雑賀孫市",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U482",
+        "name": "鴨長明",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U659",
+        "name": "僧正遍照",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U775",
+        "name": "劫火",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U3",
+        "name": "天邪鬼",
+        "score": 13,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 0
+      },
+      {
+        "id": "U737",
+        "name": "小早川秀秋",
+        "score": 13,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 0
+      },
+      {
+        "id": "U16",
+        "name": "木花咲耶姫",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U20",
+        "name": "雷神",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U68",
+        "name": "平将門",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U148",
+        "name": "雷電童子",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U158",
+        "name": "両面宿儺",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U167",
+        "name": "天忍穂耳尊",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U201",
+        "name": "霜姫",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U204",
+        "name": "坂上田村麻呂",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U265",
+        "name": "織田信長",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U271",
+        "name": "賀茂別雷神",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U275",
+        "name": "真田幸村",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U298",
+        "name": "後鳥羽天皇",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U318",
+        "name": "本多忠勝",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      }
+    ],
+    "job_puppeteer": [
+      {
+        "id": "U403",
+        "name": "近松門左衛門",
+        "score": 15,
+        "stat": 3,
+        "lore": 2,
+        "overlap": 1,
+        "element": 0
+      },
+      {
+        "id": "U734",
+        "name": "伊斯許理度売命",
+        "score": 14.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U134",
+        "name": "天細女命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U220",
+        "name": "清姫",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U306",
+        "name": "藤原鎌足",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U311",
+        "name": "黒田官兵衛",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U322",
+        "name": "井伊直虎",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U323",
+        "name": "直江兼続",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U326",
+        "name": "大友宗麟",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U381",
+        "name": "柳田國男",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U386",
+        "name": "大久保利通",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U387",
+        "name": "木戸孝允",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U400",
+        "name": "歌川広重",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U402",
+        "name": "松尾芭蕉",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U411",
+        "name": "ペリー",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U721",
+        "name": "最上義光",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U473",
+        "name": "久坂玄瑞",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U481",
+        "name": "西行",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U45",
+        "name": "安倍晴明",
+        "score": 13.5,
+        "stat": 2.5,
+        "lore": 2,
+        "overlap": 1,
+        "element": 0
+      },
+      {
+        "id": "U222",
+        "name": "小野小町",
+        "score": 13,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 0
+      },
+      {
+        "id": "MOB_U008",
+        "name": "陰陽師見習い",
+        "score": 13,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 0
+      },
+      {
+        "id": "U773",
+        "name": "旋風",
+        "score": 13,
+        "stat": 2,
+        "lore": 2,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U6",
+        "name": "瀬織津姫",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U29",
+        "name": "天児屋命",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U44",
+        "name": "卑弥呼",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      }
+    ],
+    "job_angel": [
+      {
+        "id": "U24",
+        "name": "建御名方神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U27",
+        "name": "大山祇神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U30",
+        "name": "石長比売",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U100",
+        "name": "国常立神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U105",
+        "name": "砂かけ婆",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U125",
+        "name": "天目一箇神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U185",
+        "name": "武蔵坊弁慶",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U216",
+        "name": "天穂日命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U251",
+        "name": "長壁姫",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U328",
+        "name": "百地三太夫",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U333",
+        "name": "石凝姥命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U340",
+        "name": "磐長媛命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U347",
+        "name": "金山彦神",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U352",
+        "name": "阿弥陀如来",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U370",
+        "name": "吉田兼倶",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U416",
+        "name": "寒川比古命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U418",
+        "name": "冬将軍",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U447",
+        "name": "天璋院篤姫",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U611",
+        "name": "虚ろなる器",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U725",
+        "name": "山中鹿之介",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U620",
+        "name": "叡尊",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U632",
+        "name": "運慶",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U772",
+        "name": "巌",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U456",
+        "name": "立花誾千代",
+        "score": 13,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 0
+      },
+      {
+        "id": "U2",
+        "name": "思金神",
+        "score": 12.5,
+        "stat": 2.5,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      }
+    ],
+    "job_fallen_angel": [
+      {
+        "id": "U110",
+        "name": "かぐや姫",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U155",
+        "name": "神功皇后",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U189",
+        "name": "須勢理毘売命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U191",
+        "name": "天香香背男",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U215",
+        "name": "櫛名田比売",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U260",
+        "name": "紫式部",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U302",
+        "name": "栄西",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U308",
+        "name": "蘇我入鹿",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U324",
+        "name": "本願寺顕如",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U327",
+        "name": "松永久秀",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U339",
+        "name": "鵜葺屋葺不合命",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U353",
+        "name": "大日如来",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U355",
+        "name": "弥勒菩薩",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U358",
+        "name": "普賢菩薩",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U361",
+        "name": "勢至菩薩",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U368",
+        "name": "舎人親王",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U371",
+        "name": "賀茂真淵",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U377",
+        "name": "道鏡",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U384",
+        "name": "坂本龍馬",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U401",
+        "name": "歌川国芳",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U406",
+        "name": "淀殿",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U414",
+        "name": "榎本武揚",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U444",
+        "name": "中宮定子",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U446",
+        "name": "皇女和宮",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      },
+      {
+        "id": "U472",
+        "name": "和気広蟲",
+        "score": 14,
+        "stat": 3,
+        "lore": 1,
+        "overlap": 1,
+        "element": 1
+      }
+    ]
+  },
+  "currentCounts": {
+    "job_swordsman": 68,
+    "job_spearman": 8,
+    "job_axeman": 6,
+    "job_archer": 14,
+    "job_ninja": 14,
+    "job_shield_bearer": 27,
+    "job_heavy_infantry": 18,
+    "job_cleric": 58,
+    "job_mage": 16,
+    "job_hexer": 17,
+    "job_summoner": 3,
+    "job_dancer": 6,
+    "job_musician": 35,
+    "job_strategist": 83,
+    "job_merchant": 10,
+    "job_thief": 10,
+    "job_alchemist": 6,
+    "job_martial_artist": 6,
+    "job_knight": 5,
+    "job_ronin": 7,
+    "job_gunner": 2,
+    "job_pirate": 1,
+    "job_herbalist": 6,
+    "job_healer": 23,
+    "job_astrologer": 14,
+    "job_spirit_user": 6,
+    "job_jester": 3,
+    "job_onmyoji": 5,
+    "job_necromancer": 4,
+    "job_magic_swordsman": 0,
+    "job_dark_knight": 1,
+    "job_puppeteer": 1,
+    "job_angel": 1,
+    "job_fallen_angel": 1,
+    "job_priest": 1,
+    "job_berserker": 2,
+    "job_assassin": 2,
+    "job_paladin": 1
+  }
+}
